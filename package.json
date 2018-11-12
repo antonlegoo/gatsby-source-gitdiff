@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-source-gitdiff",
+  "version": "1.0.0",
+  "description": "A source plugin for Gatsby that creates Diff nodes from a local git repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source-plugin",
+    "git",
+    "diff"
+  ],
+  "dependencies": {
+    "colors": "^1.3.2",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+  }
+}
